@@ -28,10 +28,10 @@ body {
   animation: fill 6s infinite;
 }
 @keyframes fill {
-/*   0% {
-    background-position: 0px 140px;
-  } */
   0% {
+    background-position: 0px 140px;
+  }
+  20% {
     background-position: -450px 100px;
   }
   40% {
