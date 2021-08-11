@@ -53,8 +53,10 @@ body {
   0% {
     transform: rotate(0) translateX(0);
   }
+  25% {
+    transform: rotate(10deg) translateX(40px);
   50% {
-    transform: rotate(30deg) translateX(40px);
+    transform: rotate(20deg) translateX(40px);
   }
   100% {
     transform: rotate(0) translateX(0);
